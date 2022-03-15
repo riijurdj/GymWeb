@@ -1,0 +1,7 @@
+/* CSS Reset */
+body {
+    margin: 0;
+    padding: 0;
+    background: url('img/bg2.jpg');
+    height: 1275px;
+}
